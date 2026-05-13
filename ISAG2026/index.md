@@ -1,8 +1,11 @@
 ---
 marp: true
 html: true
-paginate: true
 theme: default
+paginate: true
+bespoke:
+  progress: false
+  transition: false
 style: |
   section ul {
     animation: none;
@@ -129,10 +132,10 @@ Routing with [Pandana](https://udst.github.io/pandana/) is the core, the rest is
 
 ----
 
-* ###### Deprivation is generally concentrated in urban areas.
-* ###### Rural areas are often perceived as cleaner, safer, and more spacious, which can make properties more expensive.
-* ###### Public transport access in rural areas is often limited
-* ###### Choosing a rural location can be viewed as an **adaptation strategy**, trading accessibility and transport convenience for environmental and residential benefits.
+* Deprivation is generally concentrated in urban areas.
+* Rural areas are often perceived as cleaner, safer, and more spacious, which can make properties more expensive.
+* Public transport access in rural areas is often limited
+* Choosing a rural location can be viewed as an **adaptation strategy**, trading accessibility and transport convenience for environmental and residential benefits.
 
 
 ![width:600px](./pic11.png) 
@@ -145,13 +148,8 @@ Routing with [Pandana](https://udst.github.io/pandana/) is the core, the rest is
 ## Future steps
 
 * **Refine** and scale the simulation using more dynamic traffic and pollution data
-
-
 * **Explore** how commuting patterns, socio-economics, and transport systems shape exposure inequalities
-
-
 * **Relate** the findings to environmental justice and fairer transport and air quality policy
-
 * **Expand** the study for cyclicts, walkers, children, ...
 
 
