@@ -73,7 +73,7 @@ Website: [ambient-vulnerability.co.uk](https://ambient-vulnerability.co.uk/)
 
 #
 
-![](./pic10.png) 
+![](./pic9.png) 
 
 
 
