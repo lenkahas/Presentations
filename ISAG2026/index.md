@@ -114,11 +114,12 @@ Routing with [Pandana](https://udst.github.io/pandana/) is the core, the rest is
 ## Results
 ![](./pic7.png)
 #### Pm2.5 exposure per journey per commuter **within** the region
+
 -------
 
-## Results
 ![](./pic8.png)
 #### Deprivation deciles paired with the exposure deciles across **whole England**
+
 -------
 
 ## Implications
