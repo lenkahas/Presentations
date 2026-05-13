@@ -20,8 +20,6 @@ University of Bristol
 
  #
  #
- #
- #
 
 ![width:250](./../logos/esrc.png)           ![width:250](./../logos/Bristol.png) 
 
