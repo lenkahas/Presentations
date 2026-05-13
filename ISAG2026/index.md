@@ -132,12 +132,12 @@ Routing with [Pandana](https://udst.github.io/pandana/) is the core, the rest is
 * ###### Deprivation is generally concentrated in urban areas.
 * ###### Rural areas are often perceived as cleaner, safer, and more spacious, which can make properties more expensive.
 * ###### Public transport access in rural areas is often limited
-* ###### Choosing a rural location can be viewed as an adaptation strategy, trading accessibility and transport convenience for environmental and residential benefits.
+* ###### Choosing a rural location can be viewed as an **adaptation strategy**, trading accessibility and transport convenience for environmental and residential benefits.
 
 
 ![width:600px](./pic11.png) 
 
-###### Walking to work, [your pm2.5 intake is higher than if commuting in car](https://www.sciencedirect.com/science/article/pii/S2214140522000378).
+###### Walking to work [is associated with higher pm2.5 intake than doing the same journey by car](https://www.sciencedirect.com/science/article/pii/S2214140522000378).
 
 
 -------
