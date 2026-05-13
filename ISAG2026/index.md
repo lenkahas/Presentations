@@ -1,6 +1,17 @@
 ---
 marp: true
+html: true
+paginate: true
+theme: default
+style: |
+  section ul {
+    animation: none;
+  }
 ---
+
+<style>
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
+</style>
 
 # Mapping Ambient Vulnerabilities
 
@@ -12,16 +23,23 @@ Quantitative Spatial Science group
 Department of Geographical Sciences
 University of Bristol
 
-<i class="fa-brands fa-linkedin"></i> [LinkedIn](https://linkedin.com/in/yourprofile)
+<div style="display: flex; gap: 1.5rem; align-items: center; font-size: 1.1rem;">
 
-<i class="fa-brands fa-github"></i> [GitHub](https://github.com/yourprofile)
 
-<i class="fa-solid fa-envelope"></i> [email@example.com](mailto:email@example.com)
+<a href="lenka.hasova@bristol.ac.uk">
+  <i class="fa-solid fa-envelope"></i> 
+</a>
+
+<a href="https://www.linkedin.com/in/lenka-ha%C5%A1ov%C3%A1-88340a88/?locale=en" target="_blank">
+  <i class="fa-brands fa-linkedin"></i> 
+</a>
+
+</div>
 
  #
  #
 
-![width:250](./../logos/esrc.png)           ![width:250](./../logos/Bristol.png) 
+![width:250](./../logos/esrc.png) ![width:250](./../logos/Bristol.png) 
 
 </div>
 <div>
@@ -48,9 +66,10 @@ Website: [ambient-vulnerability.co.uk](https://ambient-vulnerability.co.uk/)
 
 ## Air Quality **vulnerability** through peoples lives
 
-**3 parts**: exposure, sensitivity, and adaptability makes upvulnerability
-**3 stages**: it home, on the move, at work
-**3 outputs**: journal article policy briefing, interactive online outputs
+**3 parts**: exposure, sensitivity, and adaptability make up vulnerability
+**3 stages**: at home, on the move, and at work
+**3 outputs**: journal article, policy briefing, interactive online outputs
+
 
 #
 
@@ -69,26 +88,24 @@ Website: [ambient-vulnerability.co.uk](https://ambient-vulnerability.co.uk/)
 
 
 ------
-## What
+## Motivation
 
-Large scale research is limited to fixed locations.
+* Commuting is often the **period of highest** pollution exposure in everyday life.
+* Most large-scale air pollution research measures exposure at **fixed locations** (e.g. home, work, junctions), overlooking daily mobility.
+* Policy-relevant studies of commuter exposure are often limited in spatial scale and **difficult to scale up or down**.
+* Exposure “on the move” **may be** unevenly distributed across populations and places.
 
-We use national scale simulation of population commutes to understand the dinamic
 
 
 -------
 
 ## How
-Routing with [Pandana](https://udst.github.io/pandana/) is the core, rest is just GIS
+Routing with [Pandana](https://udst.github.io/pandana/) is the core, the rest is just GIS
 
 ![](./pic5.png)
 
 ------
-k
-k
-k
-k
-k
+
 
 ![](./pic6.png)
 
@@ -124,11 +141,17 @@ k
 
 -------
 
-# Future steps
+## Future steps
 
-* Explore in details the connection betveen high exposure, population socio-economics and the properties of the joureys.
-* Relate the findings to teh ideas of distributed justice = what is "fair" and how can policy support that alongisde improving the pollution in the country overall 
+* **Refine** and scale the simulation using more dynamic traffic and pollution data
 
+
+* **Explore** how commuting patterns, socio-economics, and transport systems shape exposure inequalities
+
+
+* **Relate** the findings to environmental justice and fairer transport and air quality policy
+
+* **Expand** the study for cyclicts, walkers, children, ...
 
 
 
